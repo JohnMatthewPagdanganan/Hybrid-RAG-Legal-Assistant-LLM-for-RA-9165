@@ -1,0 +1,252 @@
+[
+  {
+    "QID": 1,
+    "Question": "Summarize the ruling in People v. Lim regarding compliance with Section 21 of RA 9165.",
+    "ground_truth": ["People_v_Lim_GR_231989_structured.txt", "RA 9165.pdf page 16"]
+  },
+  {
+    "QID": 2,
+    "Question": "Explain in detail how People v. Lim modified the interpretation of chain of custody requirements.",
+    "ground_truth": ["People_v_Lim_GR_231989_structured.txt"]
+  },
+  {
+    "QID": 3,
+    "Question": "Compare People v. Lim and RA 10640 in terms of the required witnesses during inventory.",
+    "ground_truth": ["People_v_Lim_GR_231989_structured.txt", "RA 10640.pdf page 1"]
+  },
+  {
+    "QID": 4,
+    "Question": "If the buy-bust team failed to photograph the seized drugs at the place of arrest, how would People v. Lim apply in this scenario?",
+    "ground_truth": ["People_v_Lim_GR_231989_structured.txt", "RA 9165.pdf page 16"]
+  },
+  {
+    "QID": 5,
+    "Question": "Quote the exact language used in People v. Lim regarding 'earnest effort' in securing required witnesses.",
+    "ground_truth": ["People_v_Lim_GR_231989_structured.txt"]
+  },
+  {
+    "QID": 6,
+    "Question": "Did People v. Lim declare Section 21 unconstitutional?",
+    "ground_truth": ["People_v_Lim_GR_231989_structured.txt"]
+  },
+  {
+    "QID": 7,
+    "Question": "Provide citations only for the doctrinal statements in People v. Lim regarding justifiable grounds.",
+    "ground_truth": ["People_v_Lim_GR_231989_structured.txt"]
+  },
+  {
+    "QID": 8,
+    "Question": "List the procedural safeguards emphasized in People v. Lim.",
+    "ground_truth": ["People_v_Lim_GR_231989_structured.txt", "RA 9165.pdf page 16"]
+  },
+  {
+    "QID": 9,
+    "Question": "Provide the step-by-step compliance required in People v. Lim before filing charges.",
+    "ground_truth": ["People_v_Lim_GR_231989_structured.txt", "RA 9165.pdf page 16", "RA 10640.pdf page 1"]
+  },
+  {
+    "QID": 10,
+    "Question": "Compare People v. Lim and People v. Sarabia on chain of custody compliance.",
+    "ground_truth": ["People_v_Lim_GR_231989_structured.txt", "People_v_Sarabia_GR_234686_structured.txt"]
+  },
+  {
+    "QID": 11,
+    "Question": "Summarize the factual background and conviction in People v. Consada.",
+    "ground_truth": ["People_v_Consada_GR_223526_structured.txt"]
+  },
+  {
+    "QID": 12,
+    "Question": "Explain in detail how People v. Consada treated inconsistencies in police testimony.",
+    "ground_truth": ["People_v_Consada_GR_223526_structured.txt"]
+  },
+  {
+    "QID": 13,
+    "Question": "Did People v. Consada acquit the accused due to broken chain of custody?",
+    "ground_truth": ["People_v_Consada_GR_223526_structured.txt"]
+  },
+  {
+    "QID": 14,
+    "Question": "In a scenario where marking was done at the police station instead of the crime scene, how would People v. Consada assess it?",
+    "ground_truth": ["People_v_Consada_GR_223526_structured.txt", "RA 9165.pdf page 16"]
+  },
+  {
+    "QID": 15,
+    "Question": "Quote the portion where the Court discussed presumption of regularity in People v. Consada.",
+    "ground_truth": ["People_v_Consada_GR_223526_structured.txt"]
+  },
+  {
+    "QID": 16,
+    "Question": "Compare People v. Consada and People v. Padollo on credibility of poseur-buyer testimony.",
+    "ground_truth": ["People_v_Consada_GR_223526_structured.txt", "People_v_Padollo_GR_243639_structured.txt"]
+  },
+  {
+    "QID": 17,
+    "Question": "List the elements of illegal sale as discussed in People v. Consada.",
+    "ground_truth": ["People_v_Consada_GR_223526_structured.txt"]
+  },
+  {
+    "QID": 18,
+    "Question": "Provide citations only for rulings in People v. Consada about inventory requirements.",
+    "ground_truth": ["People_v_Consada_GR_223526_structured.txt", "RA 9165.pdf page 16"]
+  },
+  {
+    "QID": 19,
+    "Question": "Summarize the core issue resolved in People v. Sarabia.",
+    "ground_truth": ["People_v_Sarabia_GR_234686_structured.txt"]
+  },
+  {
+    "QID": 20,
+    "Question": "Explain in detail the Court’s reasoning in People v. Sarabia regarding non-compliance with Section 21.",
+    "ground_truth": ["People_v_Sarabia_GR_234686_structured.txt", "RA 9165.pdf page 16"]
+  },
+  {
+    "QID": 21,
+    "Question": "Was the accused acquitted in People v. Sarabia?",
+    "ground_truth": ["People_v_Sarabia_GR_234686_structured.txt"]
+  },
+  {
+    "QID": 22,
+    "Question": "In a situation where only two witnesses were present during inventory, how would People v. Sarabia analyze this?",
+    "ground_truth": ["People_v_Sarabia_GR_234686_structured.txt", "RA 10640.pdf page 1"]
+  },
+  {
+    "QID": 23,
+    "Question": "Compare People v. Sarabia with the amendments introduced by RA 10640.",
+    "ground_truth": ["People_v_Sarabia_GR_234686_structured.txt", "RA 10640.pdf page 1"]
+  },
+  {
+    "QID": 24,
+    "Question": "Quote the definition of 'chain of custody' as discussed in People v. Sarabia.",
+    "ground_truth": ["People_v_Sarabia_GR_234686_structured.txt"]
+  },
+  {
+    "QID": 25,
+    "Question": "List the lapses identified by the Court in People v. Sarabia.",
+    "ground_truth": ["People_v_Sarabia_GR_234686_structured.txt"]
+  },
+  {
+    "QID": 26,
+    "Question": "Summarize the doctrine established in People v. Padollo.",
+    "ground_truth": ["People_v_Padollo_GR_243639_structured.txt"]
+  },
+  {
+    "QID": 27,
+    "Question": "Explain in detail how People v. Padollo evaluated evidentiary gaps in handling seized drugs.",
+    "ground_truth": ["People_v_Padollo_GR_243639_structured.txt"]
+  },
+  {
+    "QID": 28,
+    "Question": "Did People v. Padollo uphold conviction despite minor procedural lapses?",
+    "ground_truth": ["People_v_Padollo_GR_243639_structured.txt"]
+  },
+  {
+    "QID": 29,
+    "Question": "In a scenario where the inventory was conducted without a DOJ representative, how would People v. Padollo rule?",
+    "ground_truth": ["People_v_Padollo_GR_243639_structured.txt", "RA 10640.pdf page 1"]
+  },
+  {
+    "QID": 30,
+    "Question": "Compare People v. Padollo and People v. Lim regarding strict compliance with Section 21.",
+    "ground_truth": ["People_v_Padollo_GR_243639_structured.txt", "People_v_Lim_GR_231989_structured.txt"]
+  },
+  {
+    "QID": 31,
+    "Question": "Summarize the material facts in People v. Asaytuno.",
+    "ground_truth": ["People_v_Asaytuno_GR_245972_structured.txt"]
+  },
+  {
+    "QID": 32,
+    "Question": "Explain in detail the evidentiary standards applied in People v. Asaytuno.",
+    "ground_truth": ["People_v_Asaytuno_GR_245972_structured.txt"]
+  },
+  {
+    "QID": 33,
+    "Question": "Did the Court in People v. Asaytuno apply the saving clause?",
+    "ground_truth": ["People_v_Asaytuno_GR_245972_structured.txt", "RA 9165.pdf page 16"]
+  },
+  {
+    "QID": 34,
+    "Question": "In a scenario where seized items were not immediately marked, how would People v. Asaytuno treat the case?",
+    "ground_truth": ["People_v_Asaytuno_GR_245972_structured.txt", "RA 9165.pdf page 16"]
+  },
+  {
+    "QID": 35,
+    "Question": "Quote the Court’s reasoning in People v. Asaytuno regarding integrity of evidence.",
+    "ground_truth": ["People_v_Asaytuno_GR_245972_structured.txt"]
+  },
+  {
+    "QID": 36,
+    "Question": "List the elements of illegal sale of dangerous drugs under RA 9165.",
+    "ground_truth": ["People_v_Consada_GR_223526_structured.txt", "People_v_Asaytuno_GR_245972_structured.txt"]
+  },
+  {
+    "QID": 37,
+    "Question": "Summarize Section 21 of RA 9165 before amendment.",
+    "ground_truth": ["RA 9165.pdf page 16"]
+  },
+  {
+    "QID": 38,
+    "Question": "Explain in detail the penalties under Section 5 of RA 9165.",
+    "ground_truth": ["RA 9165.pdf page 7", "RA 9165.pdf page 8"]
+  },
+  {
+    "QID": 39,
+    "Question": "Does RA 9165 require the presence of media during inventory?",
+    "ground_truth": ["RA 9165.pdf page 16"]
+  },
+  {
+    "QID": 40,
+    "Question": "Compare Section 21 before and after the amendment introduced by RA 10640.",
+    "ground_truth": ["RA 9165.pdf page 16", "RA 10640.pdf page 1"]
+  },
+  {
+    "QID": 41,
+    "Question": "Summarize the changes introduced by RA 10640 to Section 21.",
+    "ground_truth": ["RA 10640.pdf page 1"]
+  },
+  {
+    "QID": 42,
+    "Question": "Compare witness requirements under the original RA 9165 and RA 10640.",
+    "ground_truth": ["RA 9165.pdf page 16", "RA 10640.pdf page 1"]
+  },
+  {
+    "QID": 43,
+    "Question": "Did RA 10640 remove the requirement of a DOJ representative?",
+    "ground_truth": ["RA 10640.pdf page 1"]
+  },
+  {
+    "QID": 44,
+    "Question": "Provide the step-by-step revised inventory procedure under RA 10640.",
+    "ground_truth": ["RA 10640.pdf page 1", "PDEA Guidelines IRR of RA 9165.pdf page 1"]
+  },
+  {
+    "QID": 45,
+    "Question": "Explain in detail how the DDB IRR implements Section 21 procedures.",
+    "ground_truth": ["DDB IRR of RA 9165.pdf page 1", "RA 9165.pdf page 16"]
+  },
+  {
+    "QID": 46,
+    "Question": "Provide citations only for DDB IRR provisions on custody of seized drugs.",
+    "ground_truth": ["DDB IRR of RA 9165.pdf page 1"]
+  },
+  {
+    "QID": 47,
+    "Question": "Compare the DDB IRR and PDEA Guidelines on chain of custody documentation.",
+    "ground_truth": ["DDB IRR of RA 9165.pdf page 1", "PDEA Guidelines IRR of RA 9165.pdf page 1"]
+  },
+  {
+    "QID": 48,
+    "Question": "Summarize the operational steps in the PDEA Guidelines for buy-bust operations.",
+    "ground_truth": ["PDEA Guidelines IRR of RA 9165.pdf page 1"]
+  },
+  {
+    "QID": 49,
+    "Question": "In a scenario where coordination with PDEA was not done before a buy-bust operation, how do the Guidelines treat it?",
+    "ground_truth": ["PDEA Guidelines IRR of RA 9165.pdf page 1"]
+  },
+  {
+    "QID": 50,
+    "Question": "Compare Rule 110 of the Rules of Court with Section 21 of RA 9165 regarding filing of informations and evidence preservation.",
+    "ground_truth": ["Rules of Court - Criminal Proceedure.pdf page 1", "RA 9165.pdf page 16"]
+  }
+]
